@@ -3,6 +3,10 @@
 A curated collection of wonderfully pointless, delightfully absurd, and hilariously useless websites that serve no practical purpose but will make you smile and waste your time productively.
 
 ## 📝 Contents
+
+- [Emulators](#emulators)
+
+### Emulators
 - [EmuOS](https://emupedia.net/beta/emuos): Browser-based emulator with classic Windows interface and retro games
 
 ## ⚠️ Disclaimer
