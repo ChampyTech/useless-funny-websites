@@ -15,3 +15,7 @@ Got an <b>idea</b>? Want to add something awesome? <a href="." target="_blank">O
 
 ## ⚠️ Disclaimer
 This project is not associated with, sponsored by, or endorsed by any of the websites mentioned. Although attempts are made to ensure the links are functional and the descriptions are accurate, this collection does not guarantee the accuracy, completeness, or continued existence of the content. The uselessness and humor level of linked websites may vary based on personal taste and sense of humor. Modifications to the content of linked websites are outside the control of this project. Users access linked websites at their own risk and may experience uncontrollable laughter, mild confusion, or temporary loss of productivity. We are not responsible for any time wasted or existential questions about the internet that may arise from browsing these sites.
+
+## 🎫 License
+
+This project is licensed under the [MIT License](LICENSE.md).
