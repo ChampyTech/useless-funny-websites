@@ -7,6 +7,8 @@
 
 A curated collection of wonderfully pointless, delightfully absurd, and hilariously useless websites that serve no practical purpose but will make you smile and waste your time productively.
 
+📬 **Want to contribute?** Open a pull request or an issue. Even small contributions are welcome!
+
 ## 🔨 Websites
 
 - [Emulators](#emulators)
