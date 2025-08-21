@@ -5,7 +5,7 @@
   <img alt="License MIT" src="https://img.shields.io/badge/License-MIT-orange">
 </p>
 
-A curated list of funny, weird, pointless, and entertaining websites that you probably don’t need… but will absolutely click through anyway.
+A curated list of funny, weird, pointless, and entertaining websites that you probably don’t need... but will absolutely click through anyway.
 
 📬 **Want to contribute?** Open a pull request or an issue. Even small contributions are welcome!
 
