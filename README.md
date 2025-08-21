@@ -11,9 +11,15 @@ A curated collection of wonderfully pointless, delightfully absurd, and hilariou
 
 ## 🔨 Websites
 
+### Table of Contents
+
+> [!TIP]
+> Use **Ctrl+F** (Windows/Linux/Chromebook) or **⌘+F** (Mac) to search through the collection and find exactly what you need.
+
 - [Emulators](#emulators)
 
 ### Emulators
+
 - [EmuOS](https://emupedia.net/beta/emuos): Browser-based emulator with classic Windows interface and retro games
 
 ## 🙏 Contributing
