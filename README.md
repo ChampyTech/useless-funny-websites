@@ -7,6 +7,9 @@
 
 A curated list of funny, weird, pointless, and entertaining websites that you probably don’t need... but will absolutely click through anyway.
 
+> [!NOTE]
+> Not all websites listed here are completely useless: some are funny, some host small games, and others are just oddly entertaining.
+
 📬 **Want to contribute?** Open a pull request or an issue. Even small contributions are welcome!
 
 ## 🔨 Websites
