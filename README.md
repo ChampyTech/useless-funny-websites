@@ -14,13 +14,41 @@ A curated list of funny, weird, pointless, and entertaining websites that you pr
 > [!TIP]
 > Use **Ctrl+F** (Windows/Linux/Chromebook) or **⌘+F** (Mac) to search through the collection and find exactly what you need.
 
-### Table of Contents
-
-- [Emulators](#emulators)
-
-### Emulators
-
-- [EmuOS](https://emupedia.net/beta/emuos): Browser-based emulator with classic Windows interface and retro games
+- [EmuOS](https://emupedia.net/beta/emuos/): Browser-based emulator with classic Windows interface and retro games
+- [RetroGames](https://www.retrogames.cc/): Online platform for playing classic vintage video games
+- [MyEmulator](https://myemulator.online/): Web-based game emulator supporting multiple retro gaming consoles
+- [Mario 64 Online](https://froggi.es/mario/): Browser version of Super Mario 64 with online multiplayer
+- [Programmer Humor](https://programmerhumor.io): Collection of programming jokes, memes, and humor for developers
+- [Drive & Listen](https://driveandlisten.herokuapp.com): Virtual driving experience with real city sounds and radio stations from around the world
+- [Driven Listen](https://drivenlisten.com): Immersive driving simulator with ambient city sounds and music
+- [Geek Prank](https://geekprank.com): Collection of fake hacker screens and tech pranks for harmless fun
+- [LeoLabs Space Visualization](https://platform.leolabs.space/visualizations/leo): Real-time 3D visualization of satellites and space debris in Earth's orbit
+- [Drawing Garden](https://drawing.garden): Collaborative drawing tool where multiple users can create art together in real-time
+- [Life At](https://lifeat.io): Virtual coworking spaces with ambient sounds and video backgrounds for productivity
+- [Neal.fun](https://neal.fun): Collection of interactive web experiments, games, and educational tools
+- [Tom's Toys](https://toms.toys): Interactive web toys and mini-games for entertainment and creativity
+- [Checkbox Toys](https://checkbox.toys): Satisfying interactive checkboxes and simple web toys for relaxation
+- [Tyrone's Game Shack](https://sites.google.com/site/tyronesgameshack): Collection of unblocked games playable in web browsers
+- [NoClip](https://noclip.website): Explore 3D video game environments directly in your browser
+- [Google Santa Tracker](https://santatracker.google.com): Track Santa's Christmas journey with games and holiday activities
+- [Spend Elon's Fortune](https://spend-elon-fortune.com): Interactive game where you try to spend Elon Musk's wealth on various items
+- [That's The Finger](https://thatsthefinger.com): Simple website that points a finger at your cursor wherever you move it
+- [The Useless Web](https://theuselessweb.com): Random generator that takes you to pointless but entertaining websites
+- [The Zen Zone](https://thezen.zone): Relaxing ambient sounds and visuals for meditation and focus
+- [This Person Does Not Exist](https://thispersondoesnotexist.com): AI-generated realistic human faces that don't belong to real people
+- [Binary Piano](https://binarypiano.com): Musical instrument that plays piano notes using binary code input
+- [Virtual Musical Instruments](https://virtualmusicalinstruments.com): Collection of playable musical instruments directly in your browser
+- [Hacker Typer](https://hackertyper.net): Fake hacker terminal that makes you look like a movie hacker while typing
+- [Fake WhatsApp](https://fakewhats.com): Create fake WhatsApp conversations and screenshots for pranks and demonstrations
+- [Filmora Meme Maker](https://filmora.wondershare.com/meme-maker): Online tool for creating custom memes with text, images, and templates
+- [Sort Visualizer](https://sortvisualizer.com): Interactive visualization of different sorting algorithms in action
+- [Pointer Pointer](https://pointerpointer.com): Website that finds photos of people pointing at your cursor location
+- [GeoHints](https://geohints.com): Resource providing tips and strategies for geography-based guessing games
+- [SV-Map](https://sv-map.netlify.app): Interactive mapping tool using Street View data for location exploration
+- [Plonkit](https://www.plonkit.net): Geography guessing game similar to GeoGuessr with Street View challenges
+- [Flagpedia](https://flagpedia.net/index): Comprehensive database of world flags with country information and details
+- [GeoTips](https://geotips.net): Educational resource with geography tips for location identification games
+- [Flag Guesser](https://flagguesser.com): Interactive quiz game for testing knowledge of world flags
 
 ## 🙏 Contributing
 
