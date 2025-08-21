@@ -11,10 +11,10 @@ A curated collection of wonderfully pointless, delightfully absurd, and hilariou
 
 ## 🔨 Websites
 
-### Table of Contents
-
 > [!TIP]
 > Use **Ctrl+F** (Windows/Linux/Chromebook) or **⌘+F** (Mac) to search through the collection and find exactly what you need.
+
+### Table of Contents
 
 - [Emulators](#emulators)
 
