@@ -1,5 +1,10 @@
 # 🔨 A Curated List of Useless but Funny Websites
 
+<p>
+  <img alt="Contributions welcome" src="https://img.shields.io/badge/Contributions-welcome-green">
+  <img alt="License MIT" src="https://img.shields.io/badge/License-MIT-orange">
+</p>
+
 A curated collection of wonderfully pointless, delightfully absurd, and hilariously useless websites that serve no practical purpose but will make you smile and waste your time productively.
 
 ## 🔨 Websites
