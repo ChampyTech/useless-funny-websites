@@ -26,7 +26,7 @@ A curated list of funny, weird, pointless, and entertaining websites that you pr
 - [Driven Listen](https://drivenlisten.com): Immersive driving simulator with ambient city sounds and music
 - [Geek Prank](https://geekprank.com): Collection of fake hacker screens and tech pranks for harmless fun
 - [LeoLabs Space Visualization](https://platform.leolabs.space/visualizations/leo): Real-time 3D visualization of satellites and space debris in Earth's orbit
-- [Drawing Garden](https://drawing.garden): Collaborative drawing tool where multiple users can create art together in real-time
+- [Drawing Garden](https://drawing.garden): Website where you can make music with emojis
 - [Life At](https://lifeat.io): Virtual coworking spaces with ambient sounds and video backgrounds for productivity
 - [Neal.fun](https://neal.fun): Collection of interactive web experiments, games, and educational tools
 - [Tom's Toys](https://toms.toys): Interactive web toys and mini-games for entertainment and creativity
