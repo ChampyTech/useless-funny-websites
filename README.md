@@ -47,7 +47,6 @@ A curated list of funny, weird, pointless, and entertaining websites that you pr
 - [Sort Visualizer](https://sortvisualizer.com): Interactive visualization of different sorting algorithms in action
 - [Pointer Pointer](https://pointerpointer.com): Website that finds photos of people pointing at your cursor location
 - [GeoHints](https://geohints.com): Resource providing tips and strategies for geography-based guessing games
-- [SV-Map](https://sv-map.netlify.app): Interactive mapping tool using Street View data for location exploration
 - [Plonkit](https://www.plonkit.net): Geography guessing game similar to GeoGuessr with Street View challenges
 - [Flagpedia](https://flagpedia.net/index): Comprehensive database of world flags with country information and details
 - [GeoTips](https://geotips.net): Educational resource with geography tips for location identification games
